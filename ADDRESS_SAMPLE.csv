@@ -1,4 +1,4 @@
-1,1600 Pennsylvania Avenue NW, Washington,DC,20500
+1,1600 Pennsylvania Avenue NW," Washington",DC,20500
 2,4 S Market St,Boston,MA,02109
 3,1200 Getty Center Drive,Los Angeles,CA,90049
 4,1800 Congress Ave,Austin,TX,78701
@@ -8,3 +8,4 @@
 8,201 E Jefferson St,Phoenix,AZ,85004
 9,600 N 1st Ave,Minneapolis,MN,55403
 10,400 W Church St,Orlando,FL,32801
+11,2501 W Dry Creek Ct,Littleton,CO,80120
